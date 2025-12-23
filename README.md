@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Horizontal Scroll Carousel
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# Vale292005.github.io
+>>>>>>> 36eabd7c13a35ce5932f9f0981511af3c1f26783
